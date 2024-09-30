@@ -1,5 +1,5 @@
 alpine
 jenkins/jenkins:2.414.2
 minio/minio:latest
-nacos/nacos:latest
-nacos/nacos:2.3.2
+nacos/nacos-server:latest
+nacos/nacos-server:2.3.2
